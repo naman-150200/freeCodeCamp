@@ -32,7 +32,7 @@ This directory contains all of the documentation on contributing to freeCodeCamp
 
 1. Style guide for creating guide articles.
 2. Style guide for creating coding challenges.
-3.style guide for creating web articles.
+3. style guide for creating web articles.
 
 ## Quick commands reference when working locally
 
